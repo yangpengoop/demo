@@ -1,0 +1,10 @@
+/.idea
+/.vscode
+*.log
+.env
+.DS_Store
+/runtime/*
+/thinkphp/
+/vendor/
+/public/
+/target.zip
